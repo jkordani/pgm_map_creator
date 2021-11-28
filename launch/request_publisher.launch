@@ -5,7 +5,7 @@
   <arg name="xmin" default="-15" />
   <arg name="xmax" default="25" />
   <arg name="ymin" default="-15" />
-  <arg name="ymax" default="50" />
+  <arg name="ymax" default="100" />
   <arg name="scan_height" default="5" />
   <arg name="resolution" default="0.01" />
 
